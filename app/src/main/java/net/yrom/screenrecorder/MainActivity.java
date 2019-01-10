@@ -90,6 +90,8 @@ public class MainActivity extends Activity {
      * {@code ScreenRecorder} should run in background Service
      * instead of a foreground Activity in this demonstrate.
      */
+
+    //jack.w
     private ScreenRecorder mRecorder;
 
     @Override
